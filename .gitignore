@@ -1,0 +1,6 @@
+#ignore virtual environment files
+/.venv
+/files/.venv
+
+#ignore packages file
+/files/packages.ipnyb
